@@ -1,0 +1,8 @@
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\bin\Debug\headspringExample1.exe.config
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\bin\Debug\headspringExample1.exe
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\bin\Debug\headspringExample1.pdb
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\obj\Debug\headspringExample1.csprojResolveAssemblyReference.cache
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\obj\Debug\headspringExample1.exe
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\obj\Debug\headspringExample1.pdb
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\bin\Debug\HeadspringLib.dll
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\headspringExample1\bin\Debug\HeadspringLib.pdb

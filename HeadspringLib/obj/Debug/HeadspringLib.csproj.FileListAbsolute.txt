@@ -1,0 +1,5 @@
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\HeadspringLib\bin\Debug\HeadspringLib.dll
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\HeadspringLib\bin\Debug\HeadspringLib.pdb
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\HeadspringLib\obj\Debug\HeadspringLib.dll
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\HeadspringLib\obj\Debug\HeadspringLib.pdb
+c:\users\miguel.castro\documents\visual studio 2012\Projects\headspringExample1\HeadspringLib\obj\Debug\HeadspringLib.csprojResolveAssemblyReference.cache
